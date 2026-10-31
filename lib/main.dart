@@ -12,8 +12,6 @@ void main() {
 
 class AuthItem {
   final String users;
-
-
   AuthItem({
     required this.users,
 
